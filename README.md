@@ -1,0 +1,1 @@
+This project demonstrates how to modulate an audio signal using Pulse Width Modulation (PWM) and then demodulate it back to the original signal using a low-pass filter. The code generates a sine wave as the input audio signal, modulates it using PWM, and demodulates the signal back to the original using a low-pass filter. Results are visualized using matplotlib graphs. 
