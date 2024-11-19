@@ -1,1 +1,1 @@
-This project demonstrates how to modulate an audio signal using Differential Pulse Code Modulation (DPCM) and then reconstructing the modulated signal back to the original signal. The original signal given for modulation is in the form of an input file.
+This project demonstrates how to modulate an audio signal using Differential Pulse Code Modulation (DPCM) and then reconstructing the modulated signal back to the original signal. The original signal given for modulation is in the form of an input audio file.
